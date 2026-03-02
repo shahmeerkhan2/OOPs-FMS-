@@ -6,7 +6,7 @@ class user{
 public:
     string username;
     string email;
-    bool login(string inputPass)
+    bool login(string inputPass);
     
 
     
